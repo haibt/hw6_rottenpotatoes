@@ -131,8 +131,6 @@ class MoviesController < ApplicationController
     
     end
     @similarMovies.uniq!
-   end
-
-  
+  end
 
 end
